@@ -1,7 +1,8 @@
-[![MasterHead]([https://www.shutterstock.com/image-photo/cyber-personal-data-privacy-information-260nw-2290742947.jpg](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif))
 
+[![MasterHead](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)]
 <h1 align="center">Hi 👋, I'm Hifza</h1>
 <h3 align="center">A cyber security enthusiast.</h3>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hifza-jutt" alt="hifza-jutt" /></a> </p>
 
 
